@@ -1,7 +1,7 @@
 ![👋 ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <div align="center">
   
-# 👋 Hi, I’m @VikasSingh30  
+# 👋 Hi, I’m @TheQuiteBunny
 
  👀 Passionate about **creative and functional programming**.  
  🌱 A **Full-Stack Developer** exploring modern web technologies.  
